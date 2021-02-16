@@ -1,6 +1,6 @@
 # Apresentação :page_facing_up:
 
-Desafio proposto pela Stone ao realizar a inscrição no "Programa de Formação em Elixir"
+Desafio proposto pela Stone ao realizar a inscrição no "Programa de Formação em Elixir".
 
 # Pré-requisitos
 
